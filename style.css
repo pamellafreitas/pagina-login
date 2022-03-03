@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    background-image: url('imagens/fundo.jpg');
+    background-repeat: no-repeat;
+    width: 95vw;
+    height: 95vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+form {
+    background-color: rgb(238, 197, 213);
+    width: 50vw;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.466);
+}
+
+div {
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+
+}
